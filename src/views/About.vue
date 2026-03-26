@@ -7,7 +7,7 @@
             class="text-3xl font-bold mb-6 text-center text-purple-600 dark:text-purple-400 hover:text-purple-800 dark:hover:text-purple-300 transition-colors cursor-pointer"
             @click="$router.push('/')"
           >
-            关于 Simple NAV
+            关于本站
           </h1>
           <div class="prose dark:prose-invert">
             <div class="grid grid-cols-2 gap-6 mb-8">
@@ -19,14 +19,14 @@
                 </p>
                 <p> 
                   <a 
-                    href="https://vika.cn/share/shrxaWuBbbn6cKWBwvXgV" 
+                    href="https://vika.cn/workbench/dstktnl2Scki4q8eco" 
                     target="_blank"
                     class="text-blue-500 hover:text-blue-700 dark:hover:text-blue-400 underline"
                   >
                     维基云表格地址
                   </a> |                   
                   <a 
-                    href="https://vika.cn/workbench/fomWQp8Fd6lHE5CBKl/viwullRf3ubdS?fldM5GkwwsOFh=%2Fdefault.ico&fldXKVGVmpAnY=%E6%9D%82%E9%A1%B9%E5%B7%A5%E5%85%B7" 
+                    href="https://vika.cn/workbench/dstktnl2Scki4q8eco" 
                     target="_blank"
                     class="text-blue-500 hover:text-blue-700 dark:hover:text-blue-400 underline"
                   >
@@ -62,38 +62,38 @@
             <!-- 新增关于作者区块 -->
             <div class="bg-white dark:bg-gray-800 p-4 rounded-lg shadow mb-6">
               <i class="fas fa-user-circle text-red-500 text-xl mb-2"></i>
-              <h3 class="text-xl font-semibold mb-2">关于作者</h3>
+              <h3 class="text-xl font-semibold mb-2">关于</h3>
               <div class="text-gray-600 dark:text-gray-300 space-y-2">
-                <p>🕴️ 开发者：水常（Shui Chang）</p>
-                <p>🚀 带娃建筑师 | AI技术学习者 | 个人博主</p>
+                <p>🕴️ 站长：何来当初</p>
+                <p>🚀 技术学习者 | 个人博主</p>
                 <p>🏠 个人主页： 
                   <a 
-                    href="https://www.jianzhugo.cn" 
+                    href="http://www.ahcm.cn" 
                     target="_blank"
                     class="text-blue-500 hover:text-blue-700 dark:hover:text-blue-400 underline"
                   >
-                    水常&Shui Chang
+                    AHCM.CN
                   </a>
                 </p>
                 <p>🌐 个人博客： 
                   <a 
-                    href="https://blog.jianzhugo.cn" 
+                    href="http://www.ihcm.cn" 
                     target="_blank"
                     class="text-blue-500 hover:text-blue-700 dark:hover:text-blue-400 underline"
                   >
-                    建筑G博客
+                    IHCM.CN
                   </a>
                 </p>
                 <p>💰 更多AI作品： 
                   <a 
-                    href="https://donate.jianzhugo.cn" 
+                    href="http://nav.ahcm.cn" 
                     target="_blank"
                     class="text-blue-500 hover:text-blue-700 dark:hover:text-blue-400 underline"
                   >
-                    打赏页面
+                    网址导航
                   </a>
                   <a 
-                    href="https://love.jianzhugo.cn" 
+                    href="http://love.ahcm.cn" 
                     target="_blank"
                     class="text-blue-500 hover:text-blue-700 dark:hover:text-blue-400 underline"
                   >
